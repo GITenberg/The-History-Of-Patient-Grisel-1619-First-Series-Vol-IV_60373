@@ -1,0 +1,44 @@
+_repo: The-History-Of-Patient-Grisel-1619-First-Series-Vol-IV_60373
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - http://en.wikipedia.org/wiki/Anonymity
+  editors:
+  - agent_name: Wheatley, Henry B. (Henry Benjamin)
+    alias: Wheatley, H. B. (Henry Benjamin)
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '205'
+    url: http://www.gutenberg.org/2009/agents/205
+    wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
+  - agent_name: Gomme, George Laurence
+    aliases:
+    - Gomme, G. Laurence (George Laurence)
+    - Gomme, Laurence
+    - Gomme, G. L.
+    birthdate: 1853
+    deathdate: 1916
+    gutenberg_agent_id: '24927'
+    url: http://www.gutenberg.org/2009/agents/24927
+    wikipedia: https://en.wikipedia.org/wiki/Laurence_Gomme
+description: ''
+gutenberg_issued: '2019-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60373'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The History Of Patient Grisel, 1619
+
+  First Series, Vol. IV'
+url: http://www.gutenberg.org/ebooks/60373
